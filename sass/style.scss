@@ -3,3 +3,33 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+body {
+	background-color: #9E5D5D;
+	color: #270202;
+	font-size: 30px;
+	text-align: center;
+	padding: 20px;
+}
+
+button {
+	background-color: #270202;
+	color: #9E5D5D;
+	height: 30px;
+	width: 150px;
+	border-radius: 5px;
+	border: none;
+}
+
+input {
+	background-color: #AF7878;
+	color: #270202;
+	height: 30px;
+	width: 150px;
+	border-radius: 5px;
+	border: 1px solid #270202;
+}
+
+li {
+	list-style-type: none;
+}
